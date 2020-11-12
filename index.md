@@ -1,6 +1,8 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Recipes](#recipes)
+* [Stores](#stores)
 
 ## Overview
 

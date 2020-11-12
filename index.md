@@ -27,3 +27,8 @@ Our team consists of:
 Thomas Yang - engineering major
 Alvin Yang - engineering major
 Jared Taylor - computer science major
+
+## Mockups
+
+<img src="docs/Screenshot-Nutrition.png">
+<img src="docs/Screenshot-Recipe.png">

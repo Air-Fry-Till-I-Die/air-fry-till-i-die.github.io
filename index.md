@@ -4,6 +4,9 @@
 * [Recipes](#recipes)
 * [Stores](#stores)
 * [Team](#team)
+* [Mockups](#mockups)
+* [Pages](#pages)
+* [Milestones](#milestones)
 
 ## Important Links
 Check out our [source code!](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die)
@@ -50,29 +53,31 @@ Our team consists of:
 
 
 ### Landing page
-
-
-[Go to landing page.](http://159.89.54.201/)
+The landing page provides an aesthetic overview of the site. We will eventually add more descriptions of the site's features to the landing page which explains the functions of the pages and the benefits of creating an account
+<img src="docs/landing.PNG">
+[Go to Landing page.](http://159.89.54.201/)
 
 ### User inventory page
 The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. Currently, it has no way of adding new ingredients to the inventory, this will be implemented once we get the vendor page going.
 <img src="docs/user-inventory.jpg">
-[link](http://159.89.54.201/#/inventory) (must be logged in, currently unable to add anything to inventory, and not initialized with default items)
+[Go to Inventory page.](http://159.89.54.201/#/inventory) (must be logged in, currently unable to add anything to inventory, and not initialized with default items)
 
 ### User recipes page
-The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card.
+The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card. We plan to differentiate between All Recipes and User Recipes in the future to allow a user to edit or remove their additions.
 <img src="docs/user-recipe.jpg">
-[link](http://159.89.54.201/#/list) (must be logged in)
+[Go to Recipes page.](http://159.89.54.201/#/list) (must be logged in)
 
 ### Add recipes page
-The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the futre.
+The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the future, which will allow the computation of the recipe as a whole.
 <img src="docs/add-recipe.jpg">
-[link](http://159.89.54.201/#/add) (must be logged in)
+[Go to Add Recipes page.](http://159.89.54.201/#/add) (must be logged in)
 
 ### Nutritions page
-Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases. This means that the nutritional label is currently empty.
+Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases. This means that the nutritional label is currently empty. Eventually, we want to be able to get a nutrition label which summarizes the nutritional information for a recipe by compiling the info from its ingredients.
 <img src="docs/nutrition.jpg">
-[link](http://159.89.54.201/#/nutrition)
+[Go to Nutrition page.](http://159.89.54.201/#/nutrition)
+
+### Coming soon: Vendor page
 
 ## Milestones
 

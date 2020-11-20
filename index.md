@@ -7,8 +7,10 @@
 
 ## Important Links
 Check out our [source code!](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die)
+
 Check out our [website!](http://159.89.54.201/)
-Check out our Milestone [ 1 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1)[ 2 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2)
+
+Check out our Milestone [ 1 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1)[ 2 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2)!
 
 ## Overview
 

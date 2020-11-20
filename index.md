@@ -48,21 +48,22 @@ Jared Taylor - Computer Science Major
 [Go to landing page.](http://159.89.54.201/)
 
 ### User inventory page
-This page will show what is in the user's inventory. Currently, we do not have a good way to add items to the user's inventory, this will be implemented when a vendor page is added. Each card in the inventory page has a link which directs the user to the ingredient's nutrition page.
+
 <img src="docs/user-inventory.jpg">
 
 
 ### User recipes page
 
 <img src="docs/user-recipe.jpg">
+The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card.
 
 ### Add recipes page
 
-
 <img src="docs/add-recipe.jpg">
+The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the futre.
 
 ### Nutritions page
-Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases. This means our label is currently empty.
+Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases.
 <img src="docs/nutrition.jpg">
 
 ## Milestones

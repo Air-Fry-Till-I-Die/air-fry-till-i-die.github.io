@@ -50,22 +50,22 @@ Jared Taylor - Computer Science Major
 
 ### User inventory page
 
-<img src="user-inventory.jpg">
+<img src="docs/user-inventory.jpg">
 
 
 ### User recipes page
 
 
-<img src="user-recipe.jpg">
+<img src="docs/user-recipe.jpg">
 
 ### Add recipes page
 
 
-<img src="add-recipe.jpg">
+<img src="docs/add-recipe.jpg">
 
 ### Nutritions page
 
-<img src="nutrition.jpg">
+<img src="docs/nutrition.jpg">
 
 ## Milestones
 

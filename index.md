@@ -24,9 +24,9 @@ We will also be including a list of stores along with ingredients they offer, an
 ## Team
 
 Our team consists of: 
-Thomas Yang - Computer Engineering Major
-Alvin Yang - Computer Engineering Major
-Jared Taylor - Computer Science Major
+* Thomas Yang - Computer Engineering Major
+* Alvin Yang - Computer Engineering Major
+* Jared Taylor - Computer Science Major
 
 ## Mockups
 

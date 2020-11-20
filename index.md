@@ -77,4 +77,4 @@ Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-D
 
 ### M2
 
-And our Milestone 2 is currently in progress and can be found here
+And our Milestone 2 is currently in progress and can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2?add_cards_query=is%3Aopen.

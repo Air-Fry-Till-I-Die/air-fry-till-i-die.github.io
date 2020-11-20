@@ -33,3 +33,48 @@ Jared Taylor - Computer Science Major
 <img src="docs/Screenshot-Nutrition.png">
 <img src="docs/Screenshot-Recipe.png">
 
+## Pages
+
+* [Landing page](#landing-page)
+* [User inventory page](#user-inventory-page)
+* [User recipes page](#user-recipes-page)
+* [All recipes page](#all-recipes-page)
+* [Nutritions page](#nutritions-page)
+
+
+### Landing page
+
+
+
+[Go to landing page.](http://159.89.54.201/)
+
+### User inventory page
+
+<img src="user-inventory.jpg">
+
+
+### User recipes page
+
+
+<img src="user-recipe.jpg">
+
+### Add recipes page
+
+
+<img src="add-recipe.jpg">
+
+### Nutritions page
+
+<img src="nutrition.jpg">
+
+## Milestones
+
+### M1
+
+![](images/m1-finished-progress.png)
+
+Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1.
+
+### M2
+
+And our Milestone 2 is currently in progress and can be found here

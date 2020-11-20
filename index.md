@@ -58,7 +58,7 @@ The User recipe page lists the user's created recipes. The recipe card needs imp
 
 
 ### Add recipes page
-The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the futre.
+The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the future.
 <img src="docs/add-recipe.jpg">
 
 

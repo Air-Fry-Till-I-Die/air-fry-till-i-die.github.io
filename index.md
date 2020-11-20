@@ -4,7 +4,6 @@
 * [Recipes](#recipes)
 * [Stores](#stores)
 * [Team](#team)
-* [Mockups](#mockups)
 * [Pages](#pages)
 * [Milestones](#milestones)
 
@@ -37,11 +36,6 @@ Our team consists of:
 * Thomas Yang - Computer Engineering Major
 * Alvin Yang - Computer Engineering Major
 * Jared Taylor - Computer Science Major
-
-## Mockups
-
-<img src="docs/Screenshot-Nutrition.png">
-<img src="docs/Screenshot-Recipe.png">
 
 ## Pages
 

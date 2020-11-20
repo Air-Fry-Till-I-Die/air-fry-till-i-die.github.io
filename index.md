@@ -48,7 +48,7 @@ Jared Taylor - Computer Science Major
 [Go to landing page.](http://159.89.54.201/)
 
 ### User inventory page
-
+The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. Currently, it has no way of adding new ingredients to the inventory, this will be implemented once we get the vendor page going.
 <img src="docs/user-inventory.jpg">
 
 
@@ -58,19 +58,17 @@ The User recipe page lists the user's created recipes. The recipe card needs imp
 
 
 ### Add recipes page
-The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the future.
+The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the futre.
 <img src="docs/add-recipe.jpg">
 
 
 ### Nutritions page
-Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases.
+Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases. This means that the nutritional label is currently empty.
 <img src="docs/nutrition.jpg">
 
 ## Milestones
 
 ### M1
-
-![](images/m1-finished-progress.png)
 
 Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1).
 

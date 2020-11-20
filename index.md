@@ -53,14 +53,14 @@ Jared Taylor - Computer Science Major
 
 
 ### User recipes page
-
-<img src="docs/user-recipe.jpg">
 The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card.
+<img src="docs/user-recipe.jpg">
+
 
 ### Add recipes page
-
-<img src="docs/add-recipe.jpg">
 The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the futre.
+<img src="docs/add-recipe.jpg">
+
 
 ### Nutritions page
 Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases.

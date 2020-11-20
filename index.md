@@ -45,7 +45,6 @@ Jared Taylor - Computer Science Major
 ### Landing page
 
 
-
 [Go to landing page.](http://159.89.54.201/)
 
 ### User inventory page
@@ -55,7 +54,6 @@ Jared Taylor - Computer Science Major
 
 ### User recipes page
 
-
 <img src="docs/user-recipe.jpg">
 
 ### Add recipes page
@@ -64,7 +62,7 @@ Jared Taylor - Computer Science Major
 <img src="docs/add-recipe.jpg">
 
 ### Nutritions page
-
+Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases.
 <img src="docs/nutrition.jpg">
 
 ## Milestones

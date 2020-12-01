@@ -30,13 +30,6 @@ We will be finding recipes to encompass a variety of dietary restrictions (i.e.,
 
 We will also be including a list of stores along with ingredients they offer, and the pricing for the ingredients
 
-## Team
-
-Our team consists of: 
-* Thomas Yang - Computer Engineering Major
-* Alvin Yang - Computer Engineering Major
-* Jared Taylor - Computer Science Major
-
 ## Pages
 
 * [Landing page](#landing-page)
@@ -82,3 +75,10 @@ Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-D
 ### M2
 
 And our Milestone 2 is currently in progress and can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2).
+
+## Team
+
+Our team consists of: 
+* Thomas Yang - Computer Engineering Major
+* Alvin Yang - Computer Engineering Major
+* Jared Taylor - Computer Science Major

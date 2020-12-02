@@ -53,14 +53,19 @@ The user inventory page lists all of the ingredients that a user owns. It lists 
 [Go to Inventory page.](http://159.89.54.201/#/inventory) (must be logged in, currently unable to add but shows some default items)
 
 ### User recipes page
-The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card. We plan to differentiate between All Recipes and User Recipes in the future to allow a user to edit or remove their additions.
+The User recipe page lists the user's created recipes. With each recipe card, a button to display the recipe is shown at the bottom of the card. Clicking it will give you more details about that recipe, such as the amount of ingredients need and the instructions to cook it.
 <img src="docs/my-recipes.jpg">
 [Go to Recipes page.](http://159.89.54.201/#/list) (must be logged in)
 
 ### Add recipes page
-The add recipe page allows a user to add their own recipe. The public feature still needs to be implemented correctly, and server defined ingredients are to be added in the future, which will allow the computation of the recipe as a whole.
+The add recipe page allows a user to add their own recipe. The user is able to define if they want their recipe to be publicly available, meaning it would show up on the All Recipes page, free for anyone to see.
 <img src="docs/add-recipe.jpg">
 [Go to Add Recipes page.](http://159.89.54.201/#/add) (must be logged in)
+
+### All recipes page
+This will show all available recipes that are created by the users of the website.
+<img src="docs/all-recipes.jpg">
+[Go to All Recipes page.](httpL//159.89.54.201/#/all-recipes)
 
 ### Nutritions page
 Previously, the nutritions fact was displayed on a separate page. However, we found that it would make more sense if the nutrition facts for a given item would display without moving pages, allowing the user to easily view each ingredient's nutritional info without losing their place on the list that they are viewing.

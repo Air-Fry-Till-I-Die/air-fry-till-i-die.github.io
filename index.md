@@ -68,6 +68,27 @@ Previously, the nutritions fact was displayed on a separate page. However, we fo
 
 ### Coming soon: Vendor page
 
+### Developer Guide
+In order to run this website on your own server, follow the instructions below.
+
+First, [install meteor.](https://www.meteor.com/install)
+
+Next, go to the source code of Air Fry Till I Die via the [github page](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die). Once your at the projects homepage, click the green Code button, and download ZIP. Once downloaded, extract it to the directory of your choice.
+
+Then, using a terminal or something similar, move to the directory to which you've extracted the files. Use the following command to install the libraries:
+```
+$ meteor npm install
+```
+
+And lastly, run the website with:
+
+```
+$ meteor npm run start
+```
+
+If everything goes well, the website will appear at [http://localhost:3000](http://localhost:3000).
+
+
 ## Milestones
 
 ### M1

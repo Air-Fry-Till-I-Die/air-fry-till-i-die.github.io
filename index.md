@@ -66,8 +66,6 @@ The add recipe page allows a user to add their own recipe. The public feature st
 Previously, the nutritions fact was displayed on a separate page. However, we found that it would make more sense if the nutrition facts for a given item would display without moving pages, allowing the user to easily view each ingredient's nutritional info without losing their place on the list that they are viewing.
 <img src="docs/nutritional-modal.jpg">
 
-### Coming soon: Vendor page
-
 ### Developer Guide
 In order to run this website on your own server, follow the instructions below.
 

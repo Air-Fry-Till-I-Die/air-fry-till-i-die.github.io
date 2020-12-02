@@ -4,6 +4,7 @@
 * [Recipes](#recipes)
 * [Stores](#stores)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 * [Pages](#pages)
 * [Milestones](#milestones)
@@ -14,7 +15,7 @@ Check out our [source code!](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-
 
 Check out our [website!](http://159.89.54.201/)
 
-Check out our Milestone [ 1 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1)[ 2 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2)!
+Check out our Milestone [ 1 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/1)[ 2 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2)[ 3 ](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/3)!
 
 ## Overview
 

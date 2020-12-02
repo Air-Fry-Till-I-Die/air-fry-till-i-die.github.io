@@ -10,7 +10,7 @@
 
 ## Important Links
 Check out our [source code!](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die)
-![Air-Fry-Till-I-Die](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/workflows/Air-Fry-Till-I-Die/badge.svg?branch=main&event=workflow_run)
+![Air-Fry-Till-I-Die](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/workflows/Air-Fry-Till-I-Die/badge.svg?branch=main&event=push)
 
 Check out our [website!](http://159.89.54.201/)
 

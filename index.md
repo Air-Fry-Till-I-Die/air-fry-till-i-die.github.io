@@ -54,7 +54,7 @@ The user inventory page lists all of the ingredients that a user owns. It lists 
 
 ### User recipes page
 The User recipe page lists the user's created recipes. The recipe card needs improvement, and a feature is being considered to bring the user to a new site which displays the recipe instead of just on the card. We plan to differentiate between All Recipes and User Recipes in the future to allow a user to edit or remove their additions.
-<img src="docs/user-recipe.jpg">
+<img src="docs/my-recipes.jpg">
 [Go to Recipes page.](http://159.89.54.201/#/list) (must be logged in)
 
 ### Add recipes page
@@ -64,6 +64,7 @@ The add recipe page allows a user to add their own recipe. The public feature st
 
 ### Nutritions page
 Previously, the nutritions fact was displayed on a separate page. However, we found that it would make more sense if the nutrition facts for a given item would display without moving pages, allowing the user to easily view each ingredient's nutritional info without losing their place on the list that they are viewing.
+<img src="docs/nutritional-modal.jpg">
 
 ### Coming soon: Vendor page
 

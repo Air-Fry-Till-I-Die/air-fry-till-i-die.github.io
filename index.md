@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Recipes](#recipes)
 * [Stores](#stores)
+* [User Guide](#user-guide)
 * [Team](#team)
 * [Pages](#pages)
 * [Milestones](#milestones)
@@ -29,6 +30,8 @@ We will be finding recipes to encompass a variety of dietary restrictions (i.e.,
 ## Stores
 
 We will also be including a list of stores along with ingredients they offer, and the pricing for the ingredients
+
+### User Guide
 
 ## Pages
 
@@ -60,9 +63,7 @@ The add recipe page allows a user to add their own recipe. The public feature st
 [Go to Add Recipes page.](http://159.89.54.201/#/add) (must be logged in)
 
 ### Nutritions page
-Currently, the nutritions page will show the nutrition of the ingredient that lead to it, but is not connected to any databases. This means that the nutritional label is currently empty. Eventually, we want to be able to get a nutrition label which summarizes the nutritional information for a recipe by compiling the info from its ingredients.
-<img src="docs/nutrition.jpg">
-[Go to Nutrition page.](http://159.89.54.201/#/nutrition)
+Previously, the nutritions fact was displayed on a separate page. However, we found that it would make more sense if the nutrition facts for a given item would display without moving pages, allowing the user to easily view each ingredient's nutritional info without losing their place on the list that they are viewing.
 
 ### Coming soon: Vendor page
 

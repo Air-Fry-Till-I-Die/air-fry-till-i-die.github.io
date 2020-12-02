@@ -102,7 +102,11 @@ Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-D
 
 ### M2
 
-And our Milestone 2 is currently in progress and can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2).
+Our finished Milestone 2 can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2).
+
+### M2
+
+And our Milestone 3 is currently in progress and can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/3).
 
 ## Team
 

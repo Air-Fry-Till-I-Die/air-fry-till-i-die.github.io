@@ -1,6 +1,7 @@
 ## Table of contents
 * [Important Links](#important-links)
 * [Overview](#overview)
+* [Community Feedback](#community-feedback)
 * [Recipes](#recipes)
 * [Stores](#stores)
 * [User Guide](#user-guide)
@@ -24,6 +25,15 @@ As college students move out on their own, it may be challenging for some to fin
 An air fryer offers an extremely easy way to make food quickly while reducing mess and calories. It is a great way to make easy student-freindly staples like fries, chicken nuggets, or other crispy favorites while also reducing risk of fires by forgetful students preoccupied with studying and homework. It offers the speed and convenience of being able to drop in some food, turn on a timer, and being able to safely walk away that a microwave offers, while not sacrificing texture and flavor, and at a similar price point.
 
 In addition to being able to make crispy frozen food items, air fryers can be used to easily prepare a number of simple recipes made from quality ingredients that would normally require a full oven or stove top and only take up a small amount of space in a dorm room or small apartment kitchen, making them ideal for students. Curated on this site are some simple recipes that a novice cook can prepare in a few minutes from a small handful of ingredients at a reasonable price, along with resources for where to find these ingredients. 
+
+## Community Feedback
+
+We've asked several students to visit our website and give us their thoughts on it. This is what they thought of it.
+* A neat website to see what food is available to them with a air fryer
+* A good variety of recipes
+* Easy to browse and view nutritional facts
+* Wish there was a way to add their own ingredients and recipes
+We hope to fix some issues that these students have pointed out in the future!
 
 ## Recipes
 
@@ -77,6 +87,7 @@ Previously, the nutritions fact was displayed on a separate page. However, we fo
 ### Vendors page
 The Vendors page will display shops close to UH Manoa, as well as provide addresses and links to their respective websites. Each vendor will have a products modal, which will show the various products each vendor may have, as long as an image, price, in stock, etc.
 <img src="docs/VendorsPage.png">
+
 <img src="docs/ProductsPage.png">
 
 ### Developer Guide
@@ -110,9 +121,9 @@ Our finished Milestone 1 can be found [here](https://github.com/Air-Fry-Till-I-D
 
 Our finished Milestone 2 can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/2).
 
-### M2
+### M3
 
-And our Milestone 3 is currently in progress and can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/3).
+And our Milestone 3 is finally completed can be found [here](https://github.com/Air-Fry-Till-I-Die/Air-Fry-Till-I-Die/projects/3).
 
 ## Team
 

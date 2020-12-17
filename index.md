@@ -53,6 +53,7 @@ We included a list of stores along with ingredients they offer, and the pricing 
 ## Pages
 
 * [Landing page](#landing-page)
+* [Add inventory page](#add-inventory-page)
 * [User inventory page](#user-inventory-page)
 * [List ingredients page](#list-ingredients-page)
 * [All recipes page](#all-recipes-page)

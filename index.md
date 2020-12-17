@@ -42,7 +42,11 @@ We will be finding recipes to encompass a variety of dietary restrictions (i.e.,
 
 ## Stores
 
-We will also be including a list of stores along with ingredients they offer, and the pricing for the ingredients
+We included a list of stores along with ingredients they offer, and the pricing for the ingredients. Currently, the list of vendors that we offer are:
+* Nijiya
+* Safeway
+* Kokua
+
 
 ### User Guide
 

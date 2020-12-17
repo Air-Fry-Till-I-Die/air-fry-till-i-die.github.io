@@ -42,6 +42,7 @@ We will also be including a list of stores along with ingredients they offer, an
 * [User recipes page](#user-recipes-page)
 * [All recipes page](#all-recipes-page)
 * [Nutritions page](#nutritions-page)
+* [Vendors page](#vendors-page)
 
 
 ### Landing page
@@ -72,6 +73,11 @@ This will show all available recipes that are created by the users of the websit
 ### Nutritions page
 Previously, the nutritions fact was displayed on a separate page. However, we found that it would make more sense if the nutrition facts for a given item would display without moving pages, allowing the user to easily view each ingredient's nutritional info without losing their place on the list that they are viewing.
 <img src="docs/nutritional-modal.jpg">
+
+### Vendors page
+The Vendors page will display shops close to UH Manoa, as well as provide addresses and links to their respective websites. Each vendor will have a products modal, which will show the various products each vendor may have, as long as an image, price, in stock, etc.
+<img src="docs/VendorsPage.png">
+<img src="docs/ProductsPage.png">
 
 ### Developer Guide
 In order to run this website on your own server, follow the instructions below.

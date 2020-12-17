@@ -66,7 +66,7 @@ The user inventory page lists all of the ingredients that a user owns. It lists 
 <img src="docs/user-inventory.jpg">
 [Go to Inventory page.](https://aftid.xyz/#/inventory) (must be logged in, currently unable to add but shows some default items)
 
-## List ingredients page
+### List ingredients page
 The list ingredients page lists all the ingredients that are available for the user to add. It lists each ingredient as a card, and includes a link which can direct the user to the ingredient's nutrition modal.
 <img src="docs/list-ingredients.jpg">
 [Go to Recipes page.](https://aftid.xyz/#/list-ingredients) (must be logged in)

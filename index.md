@@ -33,6 +33,7 @@ We've asked several students to visit our website and give us their thoughts on 
 * A good variety of recipes
 * Easy to browse and view nutritional facts
 * Wish there was a way to add their own ingredients and recipes
+
 We hope to fix some issues that these students have pointed out in the future!
 
 ## Recipes

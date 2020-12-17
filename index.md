@@ -50,7 +50,7 @@ We will also be including a list of stores along with ingredients they offer, an
 
 * [Landing page](#landing-page)
 * [User inventory page](#user-inventory-page)
-* [User recipes page](#user-recipes-page)
+* [Add inventory page](#add-inventory-page)
 * [All recipes page](#all-recipes-page)
 * [Nutritions page](#nutritions-page)
 * [Vendors page](#vendors-page)
@@ -62,19 +62,10 @@ The landing page provides an aesthetic overview of the site. We will eventually 
 [Go to Landing page.](https://aftid.xyz/)
 
 ### User inventory page
-The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. Currently, it has no way of adding new ingredients to the inventory, this will be implemented once we get the vendor page going.
-<img src="docs/user-inventory.jpg">
+The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. It now allows users to edit and remove ingredients from their inventory.
+<img src="docs/InventoryPage.png">
 [Go to Inventory page.](https://aftid.xyz/#/inventory) (must be logged in, currently unable to add but shows some default items)
 
-### User recipes page
-The User recipe page lists the user's created recipes. With each recipe card, a button to display the recipe is shown at the bottom of the card. Clicking it will give you more details about that recipe, such as the amount of ingredients need and the instructions to cook it.
-<img src="docs/my-recipes.jpg">
-[Go to Recipes page.](https://aftid.xyz/#/list) (must be logged in)
-
-### Add recipes page
-The add recipe page allows a user to add their own recipe. The user is able to define if they want their recipe to be publicly available, meaning it would show up on the All Recipes page, free for anyone to see.
-<img src="docs/add-recipe.jpg">
-[Go to Add Recipes page.](https://aftid.xyz/#/add) (must be logged in)
 
 ### All recipes page
 This will show all available recipes that are created by the users of the website.

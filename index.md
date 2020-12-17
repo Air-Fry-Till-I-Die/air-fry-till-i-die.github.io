@@ -63,7 +63,7 @@ The landing page provides an aesthetic overview of the site. We will eventually 
 
 ### User inventory page
 The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. Currently, it has no way of adding new ingredients to the inventory, this will be implemented once we get the vendor page going.
-<img src="docs/InventoryPage.jpg">
+<img src="docs/InventoryPage.png">
 [Go to Inventory page.](https://aftid.xyz/#/inventory) (must be logged in, currently unable to add but shows some default items)
 
 ### List ingredients page

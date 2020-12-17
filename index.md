@@ -30,10 +30,31 @@ In addition to being able to make crispy frozen food items, air fryers can be us
 ## Community Feedback
 
 We've asked several students to visit our website and give us their thoughts on it. This is what they thought of it.
+## Positives
+* Interesting concept.  
+* The site looks very professional and it is easy to look at.  
+* Recipes are organized and spaced out well while also providing the necessary information in an efficient manner.  
+* Everything is well organized and obvious what's what, recipes were easy/intuitive to get to
+* Good website idea, a niche collection of recipes for a really popular device
+* having the recipes open up in a popup instead of a new page looks clean
 * A neat website to see what food is available to them with a air fryer
 * A good variety of recipes
 * Easy to browse and view nutritional facts
-* Wish there was a way to add their own ingredients and recipes
+
+## Negatives
+* What is the vendor page for?
+* The ingredients section on the Add Recipe page should really be a drop down
+* Landing page after creating an account/loggin in shouldn't be add recipe
+* One thing that could be improved is the size of the images.  Maybe having a uniform image size could help the card elements look more refined.
+* Ingredient list behaves incorrectly for new accounts until recipe is added
+* No compelling reason to create an account (recipes are available without logging in)
+
+## Requested features
+* Ability to scroll through multiple photos on the recipe list page
+* Links to retailers that sell the ingredients
+* Link to share to social media
+* Ability to sort by the ingredients you have
+* A way to add their own ingredients and recipes
 
 We hope to fix some issues that these students have pointed out in the future!
 
@@ -97,32 +118,6 @@ The Vendors page will display shops close to UH Manoa, as well as provide addres
 <img src="docs/VendorsPage.png">
 
 <img src="docs/ProductsPage.png">
-
-### User Guide
-
-The following feedback was provided by end users testing our system:
-
-## Positives
-+Interesting concept.  
-+The site looks very professional and it is easy to look at.  
-+Recipes are organized and spaced out well while also providing the necessary information in an efficient manner.  
-+Everything is well organized and obvious what's what, recipes were easy/intuitive to get to
-+Good website idea, a niche collection of recipes for a really popular device
-+having the recipes open up in a popup instead of a new page looks clean
-
-## Negatives
--What is the vendor page for?
--The ingredients section on the Add Recipe page should really be a drop down
--Landing page after creating an account/loggin in shouldn't be add recipe
--One thing that could be improved is the size of the images.  Maybe having a uniform image size could help the card elements look more refined.
--Ingredient list behaves incorrectly for new accounts until recipe is added
--No compelling reason to create an account (recipes are available without logging in)
-
-## Requested features
-Ability to scroll through multiple photos on the recipe list page
-Links to retailers that sell the ingredients
-Link to share to social media
-Ability to sort by the ingredients you have
 
 ### Developer Guide
 In order to run this website on your own server, follow the instructions below.

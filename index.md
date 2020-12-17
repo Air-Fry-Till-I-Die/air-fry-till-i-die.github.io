@@ -65,6 +65,11 @@ The landing page provides an aesthetic overview of the site. We will eventually 
 <img src="docs/landing.PNG">
 [Go to Landing page.](https://aftid.xyz/)
 
+### Add inventory page
+The add inventory page allows the user to add a ingredient to their inventory. It only takes in an ingredient's name that is available in List Ingredients, and will not do anything if offered any other name.
+<img src="docs/AddInventory.png">
+[Go to Add Inventory page.](https://aftid.xyz/#/add-inventory) (must be logged in)
+
 ### User inventory page
 The user inventory page lists all of the ingredients that a user owns. It lists each ingredient as a card, and has a link which directs the user to the ingredient's nutrition page. It also has two buttons, one to edit the amount that is owned by the user, and another to remove the item from the user's inventory.
 <img src="docs/InventoryPage.png">
